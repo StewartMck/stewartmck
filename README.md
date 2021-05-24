@@ -4,7 +4,7 @@ I'm Stewart, a Full-Stack Developer and Pilot.
 
 
 
-[![Linkedin: stewart-mckinlay](https://img.shields.io/badge/-stewart-mckinlay-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/stewart-mckinlay/)](https://www.linkedin.com/in/stewart-mckinlay)
+[![Linkedin: stewart-mckinlay](https://img.shields.io/badge/stewart-mckinlay-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/stewart-mckinlay/)](https://www.linkedin.com/in/stewart-mckinlay)
 [![GitHub StewartMck](https://img.shields.io/github/followers/StewartMck?label=follow&style=social)](https://github.com/StewartMck)
 [Resume](https://resume.creddle.io/resume/ixegloh48mh/)
 [Email](mailto:stewart.mckinlay@gmail.com)
