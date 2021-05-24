@@ -9,7 +9,9 @@ I'm Stewart, a Full-Stack Developer and Pilot.
 [Resume](https://resume.creddle.io/resume/ixegloh48mh/)
 [Email](mailto:stewart.mckinlay@gmail.com)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StewartMck)](https://github.com/StewartMck/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StewartMck&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ![Stewart's GitHub stats](https://github-readme-stats.vercel.app/api?username=StewartMck&show_icons=true&theme=dracula)
 
