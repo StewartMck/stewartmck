@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![Linkedin: stewart-mckinlay](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/stewart-mckinlay/)](https://www.linkedin.com/in/stewart-mckinlay)
+[![GitHub StewartMck](https://img.shields.io/github/followers/StewartMck?label=follow&style=social)](https://github.com/StewartMck)
+
 <!--
 **StewartMck/stewartmck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
